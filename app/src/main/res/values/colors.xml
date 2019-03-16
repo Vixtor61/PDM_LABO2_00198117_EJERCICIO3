@@ -8,6 +8,18 @@
     <color name="color3">#de0000</color>
     <color name="color4">#110000</color>
     <color name="color5">#df0000</color>
-    <color name="color7">#990000</color>
+    <color name="color6">#990000</color>
+    <color name="color12">#004500</color>
+    <color name="color22">#00fa00</color>
+    <color name="color32">#00de00</color>
+    <color name="color42">#001100</color>
+    <color name="color52">#00df00</color>
+    <color name="color62">#009900</color>
+    <color name="color13">#000045</color>
+    <color name="color23">#0000fa</color>
+    <color name="color33">#0000de</color>
+    <color name="color43">#000011</color>
+    <color name="color53">#0000df</color>
+    <color name="color63">#000099</color>
 
 </resources>
